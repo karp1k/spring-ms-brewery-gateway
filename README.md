@@ -2,7 +2,7 @@
 
 check the project page! [*see*](https://github.com/users/karp1k/projects/1)
 
-tomcat port: 9090
+netty port: 9090
 
 related repo's:
 
@@ -14,4 +14,6 @@ related repo's:
 
 - [beer-inventory-service](https://github.com/karp1k/spring-ms-beer-inventory-service)
 
-- [beer-bom](https://github.com/karp1k/spring-ms-brewery-bom)
+- [brewery-bom](https://github.com/karp1k/spring-ms-brewery-bom)
+
+- [brewery-eureka](https://github.com/karp1k/spring-ms-brewery-eureka)

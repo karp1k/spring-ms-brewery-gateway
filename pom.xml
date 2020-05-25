@@ -10,7 +10,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>spring-ms-brewery-gateway</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>spring-ms-brewery-gateway</name>
     <description>Gateway Service for Brewery project</description>
 
